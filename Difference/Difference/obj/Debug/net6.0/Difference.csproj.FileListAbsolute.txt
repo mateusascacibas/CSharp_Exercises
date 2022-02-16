@@ -1,0 +1,15 @@
+C:\Users\mascacibas\Documents\C# - Exercises\Difference\Difference\bin\Debug\net6.0\Difference.exe
+C:\Users\mascacibas\Documents\C# - Exercises\Difference\Difference\bin\Debug\net6.0\Difference.deps.json
+C:\Users\mascacibas\Documents\C# - Exercises\Difference\Difference\bin\Debug\net6.0\Difference.runtimeconfig.json
+C:\Users\mascacibas\Documents\C# - Exercises\Difference\Difference\bin\Debug\net6.0\Difference.dll
+C:\Users\mascacibas\Documents\C# - Exercises\Difference\Difference\bin\Debug\net6.0\Difference.pdb
+C:\Users\mascacibas\Documents\C# - Exercises\Difference\Difference\obj\Debug\net6.0\Difference.csproj.AssemblyReference.cache
+C:\Users\mascacibas\Documents\C# - Exercises\Difference\Difference\obj\Debug\net6.0\Difference.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mascacibas\Documents\C# - Exercises\Difference\Difference\obj\Debug\net6.0\Difference.AssemblyInfoInputs.cache
+C:\Users\mascacibas\Documents\C# - Exercises\Difference\Difference\obj\Debug\net6.0\Difference.AssemblyInfo.cs
+C:\Users\mascacibas\Documents\C# - Exercises\Difference\Difference\obj\Debug\net6.0\Difference.csproj.CoreCompileInputs.cache
+C:\Users\mascacibas\Documents\C# - Exercises\Difference\Difference\obj\Debug\net6.0\Difference.dll
+C:\Users\mascacibas\Documents\C# - Exercises\Difference\Difference\obj\Debug\net6.0\refint\Difference.dll
+C:\Users\mascacibas\Documents\C# - Exercises\Difference\Difference\obj\Debug\net6.0\Difference.pdb
+C:\Users\mascacibas\Documents\C# - Exercises\Difference\Difference\obj\Debug\net6.0\Difference.genruntimeconfig.cache
+C:\Users\mascacibas\Documents\C# - Exercises\Difference\Difference\obj\Debug\net6.0\ref\Difference.dll

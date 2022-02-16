@@ -1,0 +1,15 @@
+C:\Users\mascacibas\Documents\C# - Exercises\SimpleProduct\SimpleProduct\bin\Debug\net6.0\SimpleProduct.exe
+C:\Users\mascacibas\Documents\C# - Exercises\SimpleProduct\SimpleProduct\bin\Debug\net6.0\SimpleProduct.deps.json
+C:\Users\mascacibas\Documents\C# - Exercises\SimpleProduct\SimpleProduct\bin\Debug\net6.0\SimpleProduct.runtimeconfig.json
+C:\Users\mascacibas\Documents\C# - Exercises\SimpleProduct\SimpleProduct\bin\Debug\net6.0\SimpleProduct.dll
+C:\Users\mascacibas\Documents\C# - Exercises\SimpleProduct\SimpleProduct\bin\Debug\net6.0\SimpleProduct.pdb
+C:\Users\mascacibas\Documents\C# - Exercises\SimpleProduct\SimpleProduct\obj\Debug\net6.0\SimpleProduct.csproj.AssemblyReference.cache
+C:\Users\mascacibas\Documents\C# - Exercises\SimpleProduct\SimpleProduct\obj\Debug\net6.0\SimpleProduct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mascacibas\Documents\C# - Exercises\SimpleProduct\SimpleProduct\obj\Debug\net6.0\SimpleProduct.AssemblyInfoInputs.cache
+C:\Users\mascacibas\Documents\C# - Exercises\SimpleProduct\SimpleProduct\obj\Debug\net6.0\SimpleProduct.AssemblyInfo.cs
+C:\Users\mascacibas\Documents\C# - Exercises\SimpleProduct\SimpleProduct\obj\Debug\net6.0\SimpleProduct.csproj.CoreCompileInputs.cache
+C:\Users\mascacibas\Documents\C# - Exercises\SimpleProduct\SimpleProduct\obj\Debug\net6.0\SimpleProduct.dll
+C:\Users\mascacibas\Documents\C# - Exercises\SimpleProduct\SimpleProduct\obj\Debug\net6.0\refint\SimpleProduct.dll
+C:\Users\mascacibas\Documents\C# - Exercises\SimpleProduct\SimpleProduct\obj\Debug\net6.0\SimpleProduct.pdb
+C:\Users\mascacibas\Documents\C# - Exercises\SimpleProduct\SimpleProduct\obj\Debug\net6.0\SimpleProduct.genruntimeconfig.cache
+C:\Users\mascacibas\Documents\C# - Exercises\SimpleProduct\SimpleProduct\obj\Debug\net6.0\ref\SimpleProduct.dll

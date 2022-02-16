@@ -1,0 +1,15 @@
+C:\Users\mascacibas\Documents\C# - Exercises\Average2\Average2\bin\Debug\net6.0\Average2.exe
+C:\Users\mascacibas\Documents\C# - Exercises\Average2\Average2\bin\Debug\net6.0\Average2.deps.json
+C:\Users\mascacibas\Documents\C# - Exercises\Average2\Average2\bin\Debug\net6.0\Average2.runtimeconfig.json
+C:\Users\mascacibas\Documents\C# - Exercises\Average2\Average2\bin\Debug\net6.0\Average2.dll
+C:\Users\mascacibas\Documents\C# - Exercises\Average2\Average2\bin\Debug\net6.0\Average2.pdb
+C:\Users\mascacibas\Documents\C# - Exercises\Average2\Average2\obj\Debug\net6.0\Average2.csproj.AssemblyReference.cache
+C:\Users\mascacibas\Documents\C# - Exercises\Average2\Average2\obj\Debug\net6.0\Average2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mascacibas\Documents\C# - Exercises\Average2\Average2\obj\Debug\net6.0\Average2.AssemblyInfoInputs.cache
+C:\Users\mascacibas\Documents\C# - Exercises\Average2\Average2\obj\Debug\net6.0\Average2.AssemblyInfo.cs
+C:\Users\mascacibas\Documents\C# - Exercises\Average2\Average2\obj\Debug\net6.0\Average2.csproj.CoreCompileInputs.cache
+C:\Users\mascacibas\Documents\C# - Exercises\Average2\Average2\obj\Debug\net6.0\Average2.dll
+C:\Users\mascacibas\Documents\C# - Exercises\Average2\Average2\obj\Debug\net6.0\refint\Average2.dll
+C:\Users\mascacibas\Documents\C# - Exercises\Average2\Average2\obj\Debug\net6.0\Average2.pdb
+C:\Users\mascacibas\Documents\C# - Exercises\Average2\Average2\obj\Debug\net6.0\Average2.genruntimeconfig.cache
+C:\Users\mascacibas\Documents\C# - Exercises\Average2\Average2\obj\Debug\net6.0\ref\Average2.dll

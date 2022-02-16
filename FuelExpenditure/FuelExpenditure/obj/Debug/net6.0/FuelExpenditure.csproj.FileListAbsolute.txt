@@ -1,0 +1,15 @@
+C:\Users\mascacibas\Documents\C# - Exercises\FuelExpenditure\FuelExpenditure\bin\Debug\net6.0\FuelExpenditure.exe
+C:\Users\mascacibas\Documents\C# - Exercises\FuelExpenditure\FuelExpenditure\bin\Debug\net6.0\FuelExpenditure.deps.json
+C:\Users\mascacibas\Documents\C# - Exercises\FuelExpenditure\FuelExpenditure\bin\Debug\net6.0\FuelExpenditure.runtimeconfig.json
+C:\Users\mascacibas\Documents\C# - Exercises\FuelExpenditure\FuelExpenditure\bin\Debug\net6.0\FuelExpenditure.dll
+C:\Users\mascacibas\Documents\C# - Exercises\FuelExpenditure\FuelExpenditure\bin\Debug\net6.0\FuelExpenditure.pdb
+C:\Users\mascacibas\Documents\C# - Exercises\FuelExpenditure\FuelExpenditure\obj\Debug\net6.0\FuelExpenditure.csproj.AssemblyReference.cache
+C:\Users\mascacibas\Documents\C# - Exercises\FuelExpenditure\FuelExpenditure\obj\Debug\net6.0\FuelExpenditure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mascacibas\Documents\C# - Exercises\FuelExpenditure\FuelExpenditure\obj\Debug\net6.0\FuelExpenditure.AssemblyInfoInputs.cache
+C:\Users\mascacibas\Documents\C# - Exercises\FuelExpenditure\FuelExpenditure\obj\Debug\net6.0\FuelExpenditure.AssemblyInfo.cs
+C:\Users\mascacibas\Documents\C# - Exercises\FuelExpenditure\FuelExpenditure\obj\Debug\net6.0\FuelExpenditure.csproj.CoreCompileInputs.cache
+C:\Users\mascacibas\Documents\C# - Exercises\FuelExpenditure\FuelExpenditure\obj\Debug\net6.0\FuelExpenditure.dll
+C:\Users\mascacibas\Documents\C# - Exercises\FuelExpenditure\FuelExpenditure\obj\Debug\net6.0\refint\FuelExpenditure.dll
+C:\Users\mascacibas\Documents\C# - Exercises\FuelExpenditure\FuelExpenditure\obj\Debug\net6.0\FuelExpenditure.pdb
+C:\Users\mascacibas\Documents\C# - Exercises\FuelExpenditure\FuelExpenditure\obj\Debug\net6.0\FuelExpenditure.genruntimeconfig.cache
+C:\Users\mascacibas\Documents\C# - Exercises\FuelExpenditure\FuelExpenditure\obj\Debug\net6.0\ref\FuelExpenditure.dll
