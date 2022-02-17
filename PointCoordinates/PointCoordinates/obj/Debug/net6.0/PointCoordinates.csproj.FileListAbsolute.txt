@@ -1,0 +1,15 @@
+C:\Users\mascacibas\Documents\C# - Exercises\PointCoordinates\PointCoordinates\bin\Debug\net6.0\PointCoordinates.exe
+C:\Users\mascacibas\Documents\C# - Exercises\PointCoordinates\PointCoordinates\bin\Debug\net6.0\PointCoordinates.deps.json
+C:\Users\mascacibas\Documents\C# - Exercises\PointCoordinates\PointCoordinates\bin\Debug\net6.0\PointCoordinates.runtimeconfig.json
+C:\Users\mascacibas\Documents\C# - Exercises\PointCoordinates\PointCoordinates\bin\Debug\net6.0\PointCoordinates.dll
+C:\Users\mascacibas\Documents\C# - Exercises\PointCoordinates\PointCoordinates\bin\Debug\net6.0\PointCoordinates.pdb
+C:\Users\mascacibas\Documents\C# - Exercises\PointCoordinates\PointCoordinates\obj\Debug\net6.0\PointCoordinates.csproj.AssemblyReference.cache
+C:\Users\mascacibas\Documents\C# - Exercises\PointCoordinates\PointCoordinates\obj\Debug\net6.0\PointCoordinates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mascacibas\Documents\C# - Exercises\PointCoordinates\PointCoordinates\obj\Debug\net6.0\PointCoordinates.AssemblyInfoInputs.cache
+C:\Users\mascacibas\Documents\C# - Exercises\PointCoordinates\PointCoordinates\obj\Debug\net6.0\PointCoordinates.AssemblyInfo.cs
+C:\Users\mascacibas\Documents\C# - Exercises\PointCoordinates\PointCoordinates\obj\Debug\net6.0\PointCoordinates.csproj.CoreCompileInputs.cache
+C:\Users\mascacibas\Documents\C# - Exercises\PointCoordinates\PointCoordinates\obj\Debug\net6.0\PointCoordinates.dll
+C:\Users\mascacibas\Documents\C# - Exercises\PointCoordinates\PointCoordinates\obj\Debug\net6.0\refint\PointCoordinates.dll
+C:\Users\mascacibas\Documents\C# - Exercises\PointCoordinates\PointCoordinates\obj\Debug\net6.0\PointCoordinates.pdb
+C:\Users\mascacibas\Documents\C# - Exercises\PointCoordinates\PointCoordinates\obj\Debug\net6.0\PointCoordinates.genruntimeconfig.cache
+C:\Users\mascacibas\Documents\C# - Exercises\PointCoordinates\PointCoordinates\obj\Debug\net6.0\ref\PointCoordinates.dll

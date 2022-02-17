@@ -1,0 +1,15 @@
+C:\Users\mascacibas\Documents\C# - Exercises\Snack\Snack\bin\Debug\net6.0\Snack.exe
+C:\Users\mascacibas\Documents\C# - Exercises\Snack\Snack\bin\Debug\net6.0\Snack.deps.json
+C:\Users\mascacibas\Documents\C# - Exercises\Snack\Snack\bin\Debug\net6.0\Snack.runtimeconfig.json
+C:\Users\mascacibas\Documents\C# - Exercises\Snack\Snack\bin\Debug\net6.0\Snack.dll
+C:\Users\mascacibas\Documents\C# - Exercises\Snack\Snack\bin\Debug\net6.0\Snack.pdb
+C:\Users\mascacibas\Documents\C# - Exercises\Snack\Snack\obj\Debug\net6.0\Snack.csproj.AssemblyReference.cache
+C:\Users\mascacibas\Documents\C# - Exercises\Snack\Snack\obj\Debug\net6.0\Snack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mascacibas\Documents\C# - Exercises\Snack\Snack\obj\Debug\net6.0\Snack.AssemblyInfoInputs.cache
+C:\Users\mascacibas\Documents\C# - Exercises\Snack\Snack\obj\Debug\net6.0\Snack.AssemblyInfo.cs
+C:\Users\mascacibas\Documents\C# - Exercises\Snack\Snack\obj\Debug\net6.0\Snack.csproj.CoreCompileInputs.cache
+C:\Users\mascacibas\Documents\C# - Exercises\Snack\Snack\obj\Debug\net6.0\Snack.dll
+C:\Users\mascacibas\Documents\C# - Exercises\Snack\Snack\obj\Debug\net6.0\refint\Snack.dll
+C:\Users\mascacibas\Documents\C# - Exercises\Snack\Snack\obj\Debug\net6.0\Snack.pdb
+C:\Users\mascacibas\Documents\C# - Exercises\Snack\Snack\obj\Debug\net6.0\Snack.genruntimeconfig.cache
+C:\Users\mascacibas\Documents\C# - Exercises\Snack\Snack\obj\Debug\net6.0\ref\Snack.dll

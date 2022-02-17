@@ -1,0 +1,15 @@
+C:\Users\mascacibas\Documents\C# - Exercises\IncomeTax\IncomeTax\bin\Debug\net6.0\IncomeTax.exe
+C:\Users\mascacibas\Documents\C# - Exercises\IncomeTax\IncomeTax\bin\Debug\net6.0\IncomeTax.deps.json
+C:\Users\mascacibas\Documents\C# - Exercises\IncomeTax\IncomeTax\bin\Debug\net6.0\IncomeTax.runtimeconfig.json
+C:\Users\mascacibas\Documents\C# - Exercises\IncomeTax\IncomeTax\bin\Debug\net6.0\IncomeTax.dll
+C:\Users\mascacibas\Documents\C# - Exercises\IncomeTax\IncomeTax\bin\Debug\net6.0\IncomeTax.pdb
+C:\Users\mascacibas\Documents\C# - Exercises\IncomeTax\IncomeTax\obj\Debug\net6.0\IncomeTax.csproj.AssemblyReference.cache
+C:\Users\mascacibas\Documents\C# - Exercises\IncomeTax\IncomeTax\obj\Debug\net6.0\IncomeTax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mascacibas\Documents\C# - Exercises\IncomeTax\IncomeTax\obj\Debug\net6.0\IncomeTax.AssemblyInfoInputs.cache
+C:\Users\mascacibas\Documents\C# - Exercises\IncomeTax\IncomeTax\obj\Debug\net6.0\IncomeTax.AssemblyInfo.cs
+C:\Users\mascacibas\Documents\C# - Exercises\IncomeTax\IncomeTax\obj\Debug\net6.0\IncomeTax.csproj.CoreCompileInputs.cache
+C:\Users\mascacibas\Documents\C# - Exercises\IncomeTax\IncomeTax\obj\Debug\net6.0\IncomeTax.dll
+C:\Users\mascacibas\Documents\C# - Exercises\IncomeTax\IncomeTax\obj\Debug\net6.0\refint\IncomeTax.dll
+C:\Users\mascacibas\Documents\C# - Exercises\IncomeTax\IncomeTax\obj\Debug\net6.0\IncomeTax.pdb
+C:\Users\mascacibas\Documents\C# - Exercises\IncomeTax\IncomeTax\obj\Debug\net6.0\IncomeTax.genruntimeconfig.cache
+C:\Users\mascacibas\Documents\C# - Exercises\IncomeTax\IncomeTax\obj\Debug\net6.0\ref\IncomeTax.dll

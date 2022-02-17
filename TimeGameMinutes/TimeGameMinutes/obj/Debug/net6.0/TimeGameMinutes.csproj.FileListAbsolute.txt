@@ -1,0 +1,15 @@
+C:\Users\mascacibas\Documents\C# - Exercises\TimeGameMinutes\TimeGameMinutes\bin\Debug\net6.0\TimeGameMinutes.exe
+C:\Users\mascacibas\Documents\C# - Exercises\TimeGameMinutes\TimeGameMinutes\bin\Debug\net6.0\TimeGameMinutes.deps.json
+C:\Users\mascacibas\Documents\C# - Exercises\TimeGameMinutes\TimeGameMinutes\bin\Debug\net6.0\TimeGameMinutes.runtimeconfig.json
+C:\Users\mascacibas\Documents\C# - Exercises\TimeGameMinutes\TimeGameMinutes\bin\Debug\net6.0\TimeGameMinutes.dll
+C:\Users\mascacibas\Documents\C# - Exercises\TimeGameMinutes\TimeGameMinutes\bin\Debug\net6.0\TimeGameMinutes.pdb
+C:\Users\mascacibas\Documents\C# - Exercises\TimeGameMinutes\TimeGameMinutes\obj\Debug\net6.0\TimeGameMinutes.csproj.AssemblyReference.cache
+C:\Users\mascacibas\Documents\C# - Exercises\TimeGameMinutes\TimeGameMinutes\obj\Debug\net6.0\TimeGameMinutes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mascacibas\Documents\C# - Exercises\TimeGameMinutes\TimeGameMinutes\obj\Debug\net6.0\TimeGameMinutes.AssemblyInfoInputs.cache
+C:\Users\mascacibas\Documents\C# - Exercises\TimeGameMinutes\TimeGameMinutes\obj\Debug\net6.0\TimeGameMinutes.AssemblyInfo.cs
+C:\Users\mascacibas\Documents\C# - Exercises\TimeGameMinutes\TimeGameMinutes\obj\Debug\net6.0\TimeGameMinutes.csproj.CoreCompileInputs.cache
+C:\Users\mascacibas\Documents\C# - Exercises\TimeGameMinutes\TimeGameMinutes\obj\Debug\net6.0\TimeGameMinutes.dll
+C:\Users\mascacibas\Documents\C# - Exercises\TimeGameMinutes\TimeGameMinutes\obj\Debug\net6.0\refint\TimeGameMinutes.dll
+C:\Users\mascacibas\Documents\C# - Exercises\TimeGameMinutes\TimeGameMinutes\obj\Debug\net6.0\TimeGameMinutes.pdb
+C:\Users\mascacibas\Documents\C# - Exercises\TimeGameMinutes\TimeGameMinutes\obj\Debug\net6.0\TimeGameMinutes.genruntimeconfig.cache
+C:\Users\mascacibas\Documents\C# - Exercises\TimeGameMinutes\TimeGameMinutes\obj\Debug\net6.0\ref\TimeGameMinutes.dll

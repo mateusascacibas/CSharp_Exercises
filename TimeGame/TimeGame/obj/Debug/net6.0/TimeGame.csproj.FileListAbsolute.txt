@@ -1,0 +1,15 @@
+C:\Users\mascacibas\Documents\C# - Exercises\TimeGame\TimeGame\bin\Debug\net6.0\TimeGame.exe
+C:\Users\mascacibas\Documents\C# - Exercises\TimeGame\TimeGame\bin\Debug\net6.0\TimeGame.deps.json
+C:\Users\mascacibas\Documents\C# - Exercises\TimeGame\TimeGame\bin\Debug\net6.0\TimeGame.runtimeconfig.json
+C:\Users\mascacibas\Documents\C# - Exercises\TimeGame\TimeGame\bin\Debug\net6.0\TimeGame.dll
+C:\Users\mascacibas\Documents\C# - Exercises\TimeGame\TimeGame\bin\Debug\net6.0\TimeGame.pdb
+C:\Users\mascacibas\Documents\C# - Exercises\TimeGame\TimeGame\obj\Debug\net6.0\TimeGame.csproj.AssemblyReference.cache
+C:\Users\mascacibas\Documents\C# - Exercises\TimeGame\TimeGame\obj\Debug\net6.0\TimeGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mascacibas\Documents\C# - Exercises\TimeGame\TimeGame\obj\Debug\net6.0\TimeGame.AssemblyInfoInputs.cache
+C:\Users\mascacibas\Documents\C# - Exercises\TimeGame\TimeGame\obj\Debug\net6.0\TimeGame.AssemblyInfo.cs
+C:\Users\mascacibas\Documents\C# - Exercises\TimeGame\TimeGame\obj\Debug\net6.0\TimeGame.csproj.CoreCompileInputs.cache
+C:\Users\mascacibas\Documents\C# - Exercises\TimeGame\TimeGame\obj\Debug\net6.0\TimeGame.dll
+C:\Users\mascacibas\Documents\C# - Exercises\TimeGame\TimeGame\obj\Debug\net6.0\refint\TimeGame.dll
+C:\Users\mascacibas\Documents\C# - Exercises\TimeGame\TimeGame\obj\Debug\net6.0\TimeGame.pdb
+C:\Users\mascacibas\Documents\C# - Exercises\TimeGame\TimeGame\obj\Debug\net6.0\TimeGame.genruntimeconfig.cache
+C:\Users\mascacibas\Documents\C# - Exercises\TimeGame\TimeGame\obj\Debug\net6.0\ref\TimeGame.dll

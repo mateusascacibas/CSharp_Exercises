@@ -1,0 +1,15 @@
+C:\Users\mascacibas\Documents\C# - Exercises\Triangule\Triangule\bin\Debug\net6.0\Triangule.exe
+C:\Users\mascacibas\Documents\C# - Exercises\Triangule\Triangule\bin\Debug\net6.0\Triangule.deps.json
+C:\Users\mascacibas\Documents\C# - Exercises\Triangule\Triangule\bin\Debug\net6.0\Triangule.runtimeconfig.json
+C:\Users\mascacibas\Documents\C# - Exercises\Triangule\Triangule\bin\Debug\net6.0\Triangule.dll
+C:\Users\mascacibas\Documents\C# - Exercises\Triangule\Triangule\bin\Debug\net6.0\Triangule.pdb
+C:\Users\mascacibas\Documents\C# - Exercises\Triangule\Triangule\obj\Debug\net6.0\Triangule.csproj.AssemblyReference.cache
+C:\Users\mascacibas\Documents\C# - Exercises\Triangule\Triangule\obj\Debug\net6.0\Triangule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mascacibas\Documents\C# - Exercises\Triangule\Triangule\obj\Debug\net6.0\Triangule.AssemblyInfoInputs.cache
+C:\Users\mascacibas\Documents\C# - Exercises\Triangule\Triangule\obj\Debug\net6.0\Triangule.AssemblyInfo.cs
+C:\Users\mascacibas\Documents\C# - Exercises\Triangule\Triangule\obj\Debug\net6.0\Triangule.csproj.CoreCompileInputs.cache
+C:\Users\mascacibas\Documents\C# - Exercises\Triangule\Triangule\obj\Debug\net6.0\Triangule.dll
+C:\Users\mascacibas\Documents\C# - Exercises\Triangule\Triangule\obj\Debug\net6.0\refint\Triangule.dll
+C:\Users\mascacibas\Documents\C# - Exercises\Triangule\Triangule\obj\Debug\net6.0\Triangule.pdb
+C:\Users\mascacibas\Documents\C# - Exercises\Triangule\Triangule\obj\Debug\net6.0\Triangule.genruntimeconfig.cache
+C:\Users\mascacibas\Documents\C# - Exercises\Triangule\Triangule\obj\Debug\net6.0\ref\Triangule.dll

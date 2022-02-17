@@ -1,0 +1,15 @@
+C:\Users\mascacibas\Documents\C# - Exercises\SelectionTest\SelectionTest\bin\Debug\net6.0\SelectionTest.exe
+C:\Users\mascacibas\Documents\C# - Exercises\SelectionTest\SelectionTest\bin\Debug\net6.0\SelectionTest.deps.json
+C:\Users\mascacibas\Documents\C# - Exercises\SelectionTest\SelectionTest\bin\Debug\net6.0\SelectionTest.runtimeconfig.json
+C:\Users\mascacibas\Documents\C# - Exercises\SelectionTest\SelectionTest\bin\Debug\net6.0\SelectionTest.dll
+C:\Users\mascacibas\Documents\C# - Exercises\SelectionTest\SelectionTest\bin\Debug\net6.0\SelectionTest.pdb
+C:\Users\mascacibas\Documents\C# - Exercises\SelectionTest\SelectionTest\obj\Debug\net6.0\SelectionTest.csproj.AssemblyReference.cache
+C:\Users\mascacibas\Documents\C# - Exercises\SelectionTest\SelectionTest\obj\Debug\net6.0\SelectionTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mascacibas\Documents\C# - Exercises\SelectionTest\SelectionTest\obj\Debug\net6.0\SelectionTest.AssemblyInfoInputs.cache
+C:\Users\mascacibas\Documents\C# - Exercises\SelectionTest\SelectionTest\obj\Debug\net6.0\SelectionTest.AssemblyInfo.cs
+C:\Users\mascacibas\Documents\C# - Exercises\SelectionTest\SelectionTest\obj\Debug\net6.0\SelectionTest.csproj.CoreCompileInputs.cache
+C:\Users\mascacibas\Documents\C# - Exercises\SelectionTest\SelectionTest\obj\Debug\net6.0\SelectionTest.dll
+C:\Users\mascacibas\Documents\C# - Exercises\SelectionTest\SelectionTest\obj\Debug\net6.0\refint\SelectionTest.dll
+C:\Users\mascacibas\Documents\C# - Exercises\SelectionTest\SelectionTest\obj\Debug\net6.0\SelectionTest.pdb
+C:\Users\mascacibas\Documents\C# - Exercises\SelectionTest\SelectionTest\obj\Debug\net6.0\SelectionTest.genruntimeconfig.cache
+C:\Users\mascacibas\Documents\C# - Exercises\SelectionTest\SelectionTest\obj\Debug\net6.0\ref\SelectionTest.dll

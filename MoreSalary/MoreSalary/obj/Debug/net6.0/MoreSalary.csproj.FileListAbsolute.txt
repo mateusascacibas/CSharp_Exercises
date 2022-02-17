@@ -1,0 +1,15 @@
+C:\Users\mascacibas\Documents\C# - Exercises\MoreSalary\MoreSalary\bin\Debug\net6.0\MoreSalary.exe
+C:\Users\mascacibas\Documents\C# - Exercises\MoreSalary\MoreSalary\bin\Debug\net6.0\MoreSalary.deps.json
+C:\Users\mascacibas\Documents\C# - Exercises\MoreSalary\MoreSalary\bin\Debug\net6.0\MoreSalary.runtimeconfig.json
+C:\Users\mascacibas\Documents\C# - Exercises\MoreSalary\MoreSalary\bin\Debug\net6.0\MoreSalary.dll
+C:\Users\mascacibas\Documents\C# - Exercises\MoreSalary\MoreSalary\bin\Debug\net6.0\MoreSalary.pdb
+C:\Users\mascacibas\Documents\C# - Exercises\MoreSalary\MoreSalary\obj\Debug\net6.0\MoreSalary.csproj.AssemblyReference.cache
+C:\Users\mascacibas\Documents\C# - Exercises\MoreSalary\MoreSalary\obj\Debug\net6.0\MoreSalary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mascacibas\Documents\C# - Exercises\MoreSalary\MoreSalary\obj\Debug\net6.0\MoreSalary.AssemblyInfoInputs.cache
+C:\Users\mascacibas\Documents\C# - Exercises\MoreSalary\MoreSalary\obj\Debug\net6.0\MoreSalary.AssemblyInfo.cs
+C:\Users\mascacibas\Documents\C# - Exercises\MoreSalary\MoreSalary\obj\Debug\net6.0\MoreSalary.csproj.CoreCompileInputs.cache
+C:\Users\mascacibas\Documents\C# - Exercises\MoreSalary\MoreSalary\obj\Debug\net6.0\MoreSalary.dll
+C:\Users\mascacibas\Documents\C# - Exercises\MoreSalary\MoreSalary\obj\Debug\net6.0\refint\MoreSalary.dll
+C:\Users\mascacibas\Documents\C# - Exercises\MoreSalary\MoreSalary\obj\Debug\net6.0\MoreSalary.pdb
+C:\Users\mascacibas\Documents\C# - Exercises\MoreSalary\MoreSalary\obj\Debug\net6.0\MoreSalary.genruntimeconfig.cache
+C:\Users\mascacibas\Documents\C# - Exercises\MoreSalary\MoreSalary\obj\Debug\net6.0\ref\MoreSalary.dll
