@@ -1,0 +1,15 @@
+C:\Users\mascacibas\Documents\C# - Exercises\Month\Month\bin\Debug\net6.0\Month.exe
+C:\Users\mascacibas\Documents\C# - Exercises\Month\Month\bin\Debug\net6.0\Month.deps.json
+C:\Users\mascacibas\Documents\C# - Exercises\Month\Month\bin\Debug\net6.0\Month.runtimeconfig.json
+C:\Users\mascacibas\Documents\C# - Exercises\Month\Month\bin\Debug\net6.0\Month.dll
+C:\Users\mascacibas\Documents\C# - Exercises\Month\Month\bin\Debug\net6.0\Month.pdb
+C:\Users\mascacibas\Documents\C# - Exercises\Month\Month\obj\Debug\net6.0\Month.csproj.AssemblyReference.cache
+C:\Users\mascacibas\Documents\C# - Exercises\Month\Month\obj\Debug\net6.0\Month.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mascacibas\Documents\C# - Exercises\Month\Month\obj\Debug\net6.0\Month.AssemblyInfoInputs.cache
+C:\Users\mascacibas\Documents\C# - Exercises\Month\Month\obj\Debug\net6.0\Month.AssemblyInfo.cs
+C:\Users\mascacibas\Documents\C# - Exercises\Month\Month\obj\Debug\net6.0\Month.csproj.CoreCompileInputs.cache
+C:\Users\mascacibas\Documents\C# - Exercises\Month\Month\obj\Debug\net6.0\Month.dll
+C:\Users\mascacibas\Documents\C# - Exercises\Month\Month\obj\Debug\net6.0\refint\Month.dll
+C:\Users\mascacibas\Documents\C# - Exercises\Month\Month\obj\Debug\net6.0\Month.pdb
+C:\Users\mascacibas\Documents\C# - Exercises\Month\Month\obj\Debug\net6.0\Month.genruntimeconfig.cache
+C:\Users\mascacibas\Documents\C# - Exercises\Month\Month\obj\Debug\net6.0\ref\Month.dll

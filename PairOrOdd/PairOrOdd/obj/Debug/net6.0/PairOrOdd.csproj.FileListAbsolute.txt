@@ -1,0 +1,15 @@
+C:\Users\mascacibas\Documents\C# - Exercises\PairOrOdd\PairOrOdd\bin\Debug\net6.0\PairOrOdd.exe
+C:\Users\mascacibas\Documents\C# - Exercises\PairOrOdd\PairOrOdd\bin\Debug\net6.0\PairOrOdd.deps.json
+C:\Users\mascacibas\Documents\C# - Exercises\PairOrOdd\PairOrOdd\bin\Debug\net6.0\PairOrOdd.runtimeconfig.json
+C:\Users\mascacibas\Documents\C# - Exercises\PairOrOdd\PairOrOdd\bin\Debug\net6.0\PairOrOdd.dll
+C:\Users\mascacibas\Documents\C# - Exercises\PairOrOdd\PairOrOdd\bin\Debug\net6.0\PairOrOdd.pdb
+C:\Users\mascacibas\Documents\C# - Exercises\PairOrOdd\PairOrOdd\obj\Debug\net6.0\PairOrOdd.csproj.AssemblyReference.cache
+C:\Users\mascacibas\Documents\C# - Exercises\PairOrOdd\PairOrOdd\obj\Debug\net6.0\PairOrOdd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mascacibas\Documents\C# - Exercises\PairOrOdd\PairOrOdd\obj\Debug\net6.0\PairOrOdd.AssemblyInfoInputs.cache
+C:\Users\mascacibas\Documents\C# - Exercises\PairOrOdd\PairOrOdd\obj\Debug\net6.0\PairOrOdd.AssemblyInfo.cs
+C:\Users\mascacibas\Documents\C# - Exercises\PairOrOdd\PairOrOdd\obj\Debug\net6.0\PairOrOdd.csproj.CoreCompileInputs.cache
+C:\Users\mascacibas\Documents\C# - Exercises\PairOrOdd\PairOrOdd\obj\Debug\net6.0\PairOrOdd.dll
+C:\Users\mascacibas\Documents\C# - Exercises\PairOrOdd\PairOrOdd\obj\Debug\net6.0\refint\PairOrOdd.dll
+C:\Users\mascacibas\Documents\C# - Exercises\PairOrOdd\PairOrOdd\obj\Debug\net6.0\PairOrOdd.pdb
+C:\Users\mascacibas\Documents\C# - Exercises\PairOrOdd\PairOrOdd\obj\Debug\net6.0\PairOrOdd.genruntimeconfig.cache
+C:\Users\mascacibas\Documents\C# - Exercises\PairOrOdd\PairOrOdd\obj\Debug\net6.0\ref\PairOrOdd.dll

@@ -1,0 +1,15 @@
+C:\Users\mascacibas\Documents\C# - Exercises\TrianguloValues\TrianguloValues\bin\Debug\net6.0\TrianguloValues.exe
+C:\Users\mascacibas\Documents\C# - Exercises\TrianguloValues\TrianguloValues\bin\Debug\net6.0\TrianguloValues.deps.json
+C:\Users\mascacibas\Documents\C# - Exercises\TrianguloValues\TrianguloValues\bin\Debug\net6.0\TrianguloValues.runtimeconfig.json
+C:\Users\mascacibas\Documents\C# - Exercises\TrianguloValues\TrianguloValues\bin\Debug\net6.0\TrianguloValues.dll
+C:\Users\mascacibas\Documents\C# - Exercises\TrianguloValues\TrianguloValues\bin\Debug\net6.0\TrianguloValues.pdb
+C:\Users\mascacibas\Documents\C# - Exercises\TrianguloValues\TrianguloValues\obj\Debug\net6.0\TrianguloValues.csproj.AssemblyReference.cache
+C:\Users\mascacibas\Documents\C# - Exercises\TrianguloValues\TrianguloValues\obj\Debug\net6.0\TrianguloValues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mascacibas\Documents\C# - Exercises\TrianguloValues\TrianguloValues\obj\Debug\net6.0\TrianguloValues.AssemblyInfoInputs.cache
+C:\Users\mascacibas\Documents\C# - Exercises\TrianguloValues\TrianguloValues\obj\Debug\net6.0\TrianguloValues.AssemblyInfo.cs
+C:\Users\mascacibas\Documents\C# - Exercises\TrianguloValues\TrianguloValues\obj\Debug\net6.0\TrianguloValues.csproj.CoreCompileInputs.cache
+C:\Users\mascacibas\Documents\C# - Exercises\TrianguloValues\TrianguloValues\obj\Debug\net6.0\TrianguloValues.dll
+C:\Users\mascacibas\Documents\C# - Exercises\TrianguloValues\TrianguloValues\obj\Debug\net6.0\refint\TrianguloValues.dll
+C:\Users\mascacibas\Documents\C# - Exercises\TrianguloValues\TrianguloValues\obj\Debug\net6.0\TrianguloValues.pdb
+C:\Users\mascacibas\Documents\C# - Exercises\TrianguloValues\TrianguloValues\obj\Debug\net6.0\TrianguloValues.genruntimeconfig.cache
+C:\Users\mascacibas\Documents\C# - Exercises\TrianguloValues\TrianguloValues\obj\Debug\net6.0\ref\TrianguloValues.dll

@@ -1,0 +1,15 @@
+C:\Users\mascacibas\Documents\C# - Exercises\DistanceBetween2Points\DistanceBetween2Points\bin\Debug\net6.0\DistanceBetween2Points.exe
+C:\Users\mascacibas\Documents\C# - Exercises\DistanceBetween2Points\DistanceBetween2Points\bin\Debug\net6.0\DistanceBetween2Points.deps.json
+C:\Users\mascacibas\Documents\C# - Exercises\DistanceBetween2Points\DistanceBetween2Points\bin\Debug\net6.0\DistanceBetween2Points.runtimeconfig.json
+C:\Users\mascacibas\Documents\C# - Exercises\DistanceBetween2Points\DistanceBetween2Points\bin\Debug\net6.0\DistanceBetween2Points.dll
+C:\Users\mascacibas\Documents\C# - Exercises\DistanceBetween2Points\DistanceBetween2Points\bin\Debug\net6.0\DistanceBetween2Points.pdb
+C:\Users\mascacibas\Documents\C# - Exercises\DistanceBetween2Points\DistanceBetween2Points\obj\Debug\net6.0\DistanceBetween2Points.csproj.AssemblyReference.cache
+C:\Users\mascacibas\Documents\C# - Exercises\DistanceBetween2Points\DistanceBetween2Points\obj\Debug\net6.0\DistanceBetween2Points.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mascacibas\Documents\C# - Exercises\DistanceBetween2Points\DistanceBetween2Points\obj\Debug\net6.0\DistanceBetween2Points.AssemblyInfoInputs.cache
+C:\Users\mascacibas\Documents\C# - Exercises\DistanceBetween2Points\DistanceBetween2Points\obj\Debug\net6.0\DistanceBetween2Points.AssemblyInfo.cs
+C:\Users\mascacibas\Documents\C# - Exercises\DistanceBetween2Points\DistanceBetween2Points\obj\Debug\net6.0\DistanceBetween2Points.csproj.CoreCompileInputs.cache
+C:\Users\mascacibas\Documents\C# - Exercises\DistanceBetween2Points\DistanceBetween2Points\obj\Debug\net6.0\DistanceBetween2Points.dll
+C:\Users\mascacibas\Documents\C# - Exercises\DistanceBetween2Points\DistanceBetween2Points\obj\Debug\net6.0\refint\DistanceBetween2Points.dll
+C:\Users\mascacibas\Documents\C# - Exercises\DistanceBetween2Points\DistanceBetween2Points\obj\Debug\net6.0\DistanceBetween2Points.pdb
+C:\Users\mascacibas\Documents\C# - Exercises\DistanceBetween2Points\DistanceBetween2Points\obj\Debug\net6.0\DistanceBetween2Points.genruntimeconfig.cache
+C:\Users\mascacibas\Documents\C# - Exercises\DistanceBetween2Points\DistanceBetween2Points\obj\Debug\net6.0\ref\DistanceBetween2Points.dll

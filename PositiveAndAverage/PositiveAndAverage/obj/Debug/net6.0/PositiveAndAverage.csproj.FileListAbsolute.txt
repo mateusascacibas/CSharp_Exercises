@@ -1,0 +1,15 @@
+C:\Users\mascacibas\Documents\C# - Exercises\PositiveAndAverage\PositiveAndAverage\bin\Debug\net6.0\PositiveAndAverage.exe
+C:\Users\mascacibas\Documents\C# - Exercises\PositiveAndAverage\PositiveAndAverage\bin\Debug\net6.0\PositiveAndAverage.deps.json
+C:\Users\mascacibas\Documents\C# - Exercises\PositiveAndAverage\PositiveAndAverage\bin\Debug\net6.0\PositiveAndAverage.runtimeconfig.json
+C:\Users\mascacibas\Documents\C# - Exercises\PositiveAndAverage\PositiveAndAverage\bin\Debug\net6.0\PositiveAndAverage.dll
+C:\Users\mascacibas\Documents\C# - Exercises\PositiveAndAverage\PositiveAndAverage\bin\Debug\net6.0\PositiveAndAverage.pdb
+C:\Users\mascacibas\Documents\C# - Exercises\PositiveAndAverage\PositiveAndAverage\obj\Debug\net6.0\PositiveAndAverage.csproj.AssemblyReference.cache
+C:\Users\mascacibas\Documents\C# - Exercises\PositiveAndAverage\PositiveAndAverage\obj\Debug\net6.0\PositiveAndAverage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mascacibas\Documents\C# - Exercises\PositiveAndAverage\PositiveAndAverage\obj\Debug\net6.0\PositiveAndAverage.AssemblyInfoInputs.cache
+C:\Users\mascacibas\Documents\C# - Exercises\PositiveAndAverage\PositiveAndAverage\obj\Debug\net6.0\PositiveAndAverage.AssemblyInfo.cs
+C:\Users\mascacibas\Documents\C# - Exercises\PositiveAndAverage\PositiveAndAverage\obj\Debug\net6.0\PositiveAndAverage.csproj.CoreCompileInputs.cache
+C:\Users\mascacibas\Documents\C# - Exercises\PositiveAndAverage\PositiveAndAverage\obj\Debug\net6.0\PositiveAndAverage.dll
+C:\Users\mascacibas\Documents\C# - Exercises\PositiveAndAverage\PositiveAndAverage\obj\Debug\net6.0\refint\PositiveAndAverage.dll
+C:\Users\mascacibas\Documents\C# - Exercises\PositiveAndAverage\PositiveAndAverage\obj\Debug\net6.0\PositiveAndAverage.pdb
+C:\Users\mascacibas\Documents\C# - Exercises\PositiveAndAverage\PositiveAndAverage\obj\Debug\net6.0\PositiveAndAverage.genruntimeconfig.cache
+C:\Users\mascacibas\Documents\C# - Exercises\PositiveAndAverage\PositiveAndAverage\obj\Debug\net6.0\ref\PositiveAndAverage.dll

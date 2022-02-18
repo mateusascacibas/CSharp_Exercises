@@ -1,0 +1,16 @@
+﻿int n1, n2, n3;
+List<int> vs = new List<int>();
+Console.WriteLine("Enter N1º value: ");
+n1 = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Enter N2º value: ");
+n2 = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Enter N3º value: ");
+n3 = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("");
+vs.Add(n1);
+vs.Add(n2);
+vs.Add(n3);
+vs.ForEach(v => Console.WriteLine("{0}\t", v));
+Console.WriteLine("");
+vs.Sort();
+vs.ForEach(v => Console.WriteLine("{0}\t", v));

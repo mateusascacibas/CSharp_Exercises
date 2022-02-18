@@ -1,0 +1,15 @@
+C:\Users\mascacibas\Documents\C# - Exercises\PairSquare\PairSquare\bin\Debug\net6.0\PairSquare.exe
+C:\Users\mascacibas\Documents\C# - Exercises\PairSquare\PairSquare\bin\Debug\net6.0\PairSquare.deps.json
+C:\Users\mascacibas\Documents\C# - Exercises\PairSquare\PairSquare\bin\Debug\net6.0\PairSquare.runtimeconfig.json
+C:\Users\mascacibas\Documents\C# - Exercises\PairSquare\PairSquare\bin\Debug\net6.0\PairSquare.dll
+C:\Users\mascacibas\Documents\C# - Exercises\PairSquare\PairSquare\bin\Debug\net6.0\PairSquare.pdb
+C:\Users\mascacibas\Documents\C# - Exercises\PairSquare\PairSquare\obj\Debug\net6.0\PairSquare.csproj.AssemblyReference.cache
+C:\Users\mascacibas\Documents\C# - Exercises\PairSquare\PairSquare\obj\Debug\net6.0\PairSquare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mascacibas\Documents\C# - Exercises\PairSquare\PairSquare\obj\Debug\net6.0\PairSquare.AssemblyInfoInputs.cache
+C:\Users\mascacibas\Documents\C# - Exercises\PairSquare\PairSquare\obj\Debug\net6.0\PairSquare.AssemblyInfo.cs
+C:\Users\mascacibas\Documents\C# - Exercises\PairSquare\PairSquare\obj\Debug\net6.0\PairSquare.csproj.CoreCompileInputs.cache
+C:\Users\mascacibas\Documents\C# - Exercises\PairSquare\PairSquare\obj\Debug\net6.0\PairSquare.dll
+C:\Users\mascacibas\Documents\C# - Exercises\PairSquare\PairSquare\obj\Debug\net6.0\refint\PairSquare.dll
+C:\Users\mascacibas\Documents\C# - Exercises\PairSquare\PairSquare\obj\Debug\net6.0\PairSquare.pdb
+C:\Users\mascacibas\Documents\C# - Exercises\PairSquare\PairSquare\obj\Debug\net6.0\PairSquare.genruntimeconfig.cache
+C:\Users\mascacibas\Documents\C# - Exercises\PairSquare\PairSquare\obj\Debug\net6.0\ref\PairSquare.dll

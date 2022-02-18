@@ -1,0 +1,15 @@
+C:\Users\mascacibas\Documents\C# - Exercises\Rest2\Rest2\bin\Debug\net6.0\Rest2.exe
+C:\Users\mascacibas\Documents\C# - Exercises\Rest2\Rest2\bin\Debug\net6.0\Rest2.deps.json
+C:\Users\mascacibas\Documents\C# - Exercises\Rest2\Rest2\bin\Debug\net6.0\Rest2.runtimeconfig.json
+C:\Users\mascacibas\Documents\C# - Exercises\Rest2\Rest2\bin\Debug\net6.0\Rest2.dll
+C:\Users\mascacibas\Documents\C# - Exercises\Rest2\Rest2\bin\Debug\net6.0\Rest2.pdb
+C:\Users\mascacibas\Documents\C# - Exercises\Rest2\Rest2\obj\Debug\net6.0\Rest2.csproj.AssemblyReference.cache
+C:\Users\mascacibas\Documents\C# - Exercises\Rest2\Rest2\obj\Debug\net6.0\Rest2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mascacibas\Documents\C# - Exercises\Rest2\Rest2\obj\Debug\net6.0\Rest2.AssemblyInfoInputs.cache
+C:\Users\mascacibas\Documents\C# - Exercises\Rest2\Rest2\obj\Debug\net6.0\Rest2.AssemblyInfo.cs
+C:\Users\mascacibas\Documents\C# - Exercises\Rest2\Rest2\obj\Debug\net6.0\Rest2.csproj.CoreCompileInputs.cache
+C:\Users\mascacibas\Documents\C# - Exercises\Rest2\Rest2\obj\Debug\net6.0\Rest2.dll
+C:\Users\mascacibas\Documents\C# - Exercises\Rest2\Rest2\obj\Debug\net6.0\refint\Rest2.dll
+C:\Users\mascacibas\Documents\C# - Exercises\Rest2\Rest2\obj\Debug\net6.0\Rest2.pdb
+C:\Users\mascacibas\Documents\C# - Exercises\Rest2\Rest2\obj\Debug\net6.0\Rest2.genruntimeconfig.cache
+C:\Users\mascacibas\Documents\C# - Exercises\Rest2\Rest2\obj\Debug\net6.0\ref\Rest2.dll

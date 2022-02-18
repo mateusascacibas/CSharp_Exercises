@@ -1,0 +1,15 @@
+C:\Users\mascacibas\Documents\C# - Exercises\Odd6Numbers\Odd6Numbers\bin\Debug\net6.0\Odd6Numbers.exe
+C:\Users\mascacibas\Documents\C# - Exercises\Odd6Numbers\Odd6Numbers\bin\Debug\net6.0\Odd6Numbers.deps.json
+C:\Users\mascacibas\Documents\C# - Exercises\Odd6Numbers\Odd6Numbers\bin\Debug\net6.0\Odd6Numbers.runtimeconfig.json
+C:\Users\mascacibas\Documents\C# - Exercises\Odd6Numbers\Odd6Numbers\bin\Debug\net6.0\Odd6Numbers.dll
+C:\Users\mascacibas\Documents\C# - Exercises\Odd6Numbers\Odd6Numbers\bin\Debug\net6.0\Odd6Numbers.pdb
+C:\Users\mascacibas\Documents\C# - Exercises\Odd6Numbers\Odd6Numbers\obj\Debug\net6.0\Odd6Numbers.csproj.AssemblyReference.cache
+C:\Users\mascacibas\Documents\C# - Exercises\Odd6Numbers\Odd6Numbers\obj\Debug\net6.0\Odd6Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mascacibas\Documents\C# - Exercises\Odd6Numbers\Odd6Numbers\obj\Debug\net6.0\Odd6Numbers.AssemblyInfoInputs.cache
+C:\Users\mascacibas\Documents\C# - Exercises\Odd6Numbers\Odd6Numbers\obj\Debug\net6.0\Odd6Numbers.AssemblyInfo.cs
+C:\Users\mascacibas\Documents\C# - Exercises\Odd6Numbers\Odd6Numbers\obj\Debug\net6.0\Odd6Numbers.csproj.CoreCompileInputs.cache
+C:\Users\mascacibas\Documents\C# - Exercises\Odd6Numbers\Odd6Numbers\obj\Debug\net6.0\Odd6Numbers.dll
+C:\Users\mascacibas\Documents\C# - Exercises\Odd6Numbers\Odd6Numbers\obj\Debug\net6.0\refint\Odd6Numbers.dll
+C:\Users\mascacibas\Documents\C# - Exercises\Odd6Numbers\Odd6Numbers\obj\Debug\net6.0\Odd6Numbers.pdb
+C:\Users\mascacibas\Documents\C# - Exercises\Odd6Numbers\Odd6Numbers\obj\Debug\net6.0\Odd6Numbers.genruntimeconfig.cache
+C:\Users\mascacibas\Documents\C# - Exercises\Odd6Numbers\Odd6Numbers\obj\Debug\net6.0\ref\Odd6Numbers.dll

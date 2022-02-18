@@ -1,0 +1,15 @@
+C:\Users\mascacibas\Documents\C# - Exercises\SumOdd\SumOdd\bin\Debug\net6.0\SumOdd.exe
+C:\Users\mascacibas\Documents\C# - Exercises\SumOdd\SumOdd\bin\Debug\net6.0\SumOdd.deps.json
+C:\Users\mascacibas\Documents\C# - Exercises\SumOdd\SumOdd\bin\Debug\net6.0\SumOdd.runtimeconfig.json
+C:\Users\mascacibas\Documents\C# - Exercises\SumOdd\SumOdd\bin\Debug\net6.0\SumOdd.dll
+C:\Users\mascacibas\Documents\C# - Exercises\SumOdd\SumOdd\bin\Debug\net6.0\SumOdd.pdb
+C:\Users\mascacibas\Documents\C# - Exercises\SumOdd\SumOdd\obj\Debug\net6.0\SumOdd.csproj.AssemblyReference.cache
+C:\Users\mascacibas\Documents\C# - Exercises\SumOdd\SumOdd\obj\Debug\net6.0\SumOdd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mascacibas\Documents\C# - Exercises\SumOdd\SumOdd\obj\Debug\net6.0\SumOdd.AssemblyInfoInputs.cache
+C:\Users\mascacibas\Documents\C# - Exercises\SumOdd\SumOdd\obj\Debug\net6.0\SumOdd.AssemblyInfo.cs
+C:\Users\mascacibas\Documents\C# - Exercises\SumOdd\SumOdd\obj\Debug\net6.0\SumOdd.csproj.CoreCompileInputs.cache
+C:\Users\mascacibas\Documents\C# - Exercises\SumOdd\SumOdd\obj\Debug\net6.0\SumOdd.dll
+C:\Users\mascacibas\Documents\C# - Exercises\SumOdd\SumOdd\obj\Debug\net6.0\refint\SumOdd.dll
+C:\Users\mascacibas\Documents\C# - Exercises\SumOdd\SumOdd\obj\Debug\net6.0\SumOdd.pdb
+C:\Users\mascacibas\Documents\C# - Exercises\SumOdd\SumOdd\obj\Debug\net6.0\SumOdd.genruntimeconfig.cache
+C:\Users\mascacibas\Documents\C# - Exercises\SumOdd\SumOdd\obj\Debug\net6.0\ref\SumOdd.dll

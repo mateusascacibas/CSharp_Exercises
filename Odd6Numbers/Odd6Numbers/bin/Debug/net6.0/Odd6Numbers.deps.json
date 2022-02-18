@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Odd6Numbers/1.0.0": {
+        "runtime": {
+          "Odd6Numbers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Odd6Numbers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

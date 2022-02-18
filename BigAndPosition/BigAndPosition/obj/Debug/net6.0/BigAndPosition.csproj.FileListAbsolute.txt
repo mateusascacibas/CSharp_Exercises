@@ -1,0 +1,15 @@
+C:\Users\mascacibas\Documents\C# - Exercises\BigAndPosition\BigAndPosition\bin\Debug\net6.0\BigAndPosition.exe
+C:\Users\mascacibas\Documents\C# - Exercises\BigAndPosition\BigAndPosition\bin\Debug\net6.0\BigAndPosition.deps.json
+C:\Users\mascacibas\Documents\C# - Exercises\BigAndPosition\BigAndPosition\bin\Debug\net6.0\BigAndPosition.runtimeconfig.json
+C:\Users\mascacibas\Documents\C# - Exercises\BigAndPosition\BigAndPosition\bin\Debug\net6.0\BigAndPosition.dll
+C:\Users\mascacibas\Documents\C# - Exercises\BigAndPosition\BigAndPosition\bin\Debug\net6.0\BigAndPosition.pdb
+C:\Users\mascacibas\Documents\C# - Exercises\BigAndPosition\BigAndPosition\obj\Debug\net6.0\BigAndPosition.csproj.AssemblyReference.cache
+C:\Users\mascacibas\Documents\C# - Exercises\BigAndPosition\BigAndPosition\obj\Debug\net6.0\BigAndPosition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mascacibas\Documents\C# - Exercises\BigAndPosition\BigAndPosition\obj\Debug\net6.0\BigAndPosition.AssemblyInfoInputs.cache
+C:\Users\mascacibas\Documents\C# - Exercises\BigAndPosition\BigAndPosition\obj\Debug\net6.0\BigAndPosition.AssemblyInfo.cs
+C:\Users\mascacibas\Documents\C# - Exercises\BigAndPosition\BigAndPosition\obj\Debug\net6.0\BigAndPosition.csproj.CoreCompileInputs.cache
+C:\Users\mascacibas\Documents\C# - Exercises\BigAndPosition\BigAndPosition\obj\Debug\net6.0\BigAndPosition.dll
+C:\Users\mascacibas\Documents\C# - Exercises\BigAndPosition\BigAndPosition\obj\Debug\net6.0\refint\BigAndPosition.dll
+C:\Users\mascacibas\Documents\C# - Exercises\BigAndPosition\BigAndPosition\obj\Debug\net6.0\BigAndPosition.pdb
+C:\Users\mascacibas\Documents\C# - Exercises\BigAndPosition\BigAndPosition\obj\Debug\net6.0\BigAndPosition.genruntimeconfig.cache
+C:\Users\mascacibas\Documents\C# - Exercises\BigAndPosition\BigAndPosition\obj\Debug\net6.0\ref\BigAndPosition.dll

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Odd6Numbers", "Odd6Numbers\Odd6Numbers.csproj", "{FFC88A56-C78B-4FE9-A70C-F40860C3D914}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFC88A56-C78B-4FE9-A70C-F40860C3D914}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFC88A56-C78B-4FE9-A70C-F40860C3D914}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFC88A56-C78B-4FE9-A70C-F40860C3D914}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFC88A56-C78B-4FE9-A70C-F40860C3D914}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA5F0934-BF96-41DD-AAF5-9C00A13B9EEE}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+C:\Users\mascacibas\Documents\C# - Exercises\AveragePonde\AveragePonde\bin\Debug\net6.0\AveragePonde.exe
+C:\Users\mascacibas\Documents\C# - Exercises\AveragePonde\AveragePonde\bin\Debug\net6.0\AveragePonde.deps.json
+C:\Users\mascacibas\Documents\C# - Exercises\AveragePonde\AveragePonde\bin\Debug\net6.0\AveragePonde.runtimeconfig.json
+C:\Users\mascacibas\Documents\C# - Exercises\AveragePonde\AveragePonde\bin\Debug\net6.0\AveragePonde.dll
+C:\Users\mascacibas\Documents\C# - Exercises\AveragePonde\AveragePonde\bin\Debug\net6.0\AveragePonde.pdb
+C:\Users\mascacibas\Documents\C# - Exercises\AveragePonde\AveragePonde\obj\Debug\net6.0\AveragePonde.csproj.AssemblyReference.cache
+C:\Users\mascacibas\Documents\C# - Exercises\AveragePonde\AveragePonde\obj\Debug\net6.0\AveragePonde.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mascacibas\Documents\C# - Exercises\AveragePonde\AveragePonde\obj\Debug\net6.0\AveragePonde.AssemblyInfoInputs.cache
+C:\Users\mascacibas\Documents\C# - Exercises\AveragePonde\AveragePonde\obj\Debug\net6.0\AveragePonde.AssemblyInfo.cs
+C:\Users\mascacibas\Documents\C# - Exercises\AveragePonde\AveragePonde\obj\Debug\net6.0\AveragePonde.csproj.CoreCompileInputs.cache
+C:\Users\mascacibas\Documents\C# - Exercises\AveragePonde\AveragePonde\obj\Debug\net6.0\AveragePonde.dll
+C:\Users\mascacibas\Documents\C# - Exercises\AveragePonde\AveragePonde\obj\Debug\net6.0\refint\AveragePonde.dll
+C:\Users\mascacibas\Documents\C# - Exercises\AveragePonde\AveragePonde\obj\Debug\net6.0\AveragePonde.pdb
+C:\Users\mascacibas\Documents\C# - Exercises\AveragePonde\AveragePonde\obj\Debug\net6.0\AveragePonde.genruntimeconfig.cache
+C:\Users\mascacibas\Documents\C# - Exercises\AveragePonde\AveragePonde\obj\Debug\net6.0\ref\AveragePonde.dll

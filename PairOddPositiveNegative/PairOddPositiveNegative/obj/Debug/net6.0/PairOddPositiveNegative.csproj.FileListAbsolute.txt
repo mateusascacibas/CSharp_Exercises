@@ -1,0 +1,15 @@
+C:\Users\mascacibas\Documents\C# - Exercises\PairOddPositiveNegative\PairOddPositiveNegative\bin\Debug\net6.0\PairOddPositiveNegative.exe
+C:\Users\mascacibas\Documents\C# - Exercises\PairOddPositiveNegative\PairOddPositiveNegative\bin\Debug\net6.0\PairOddPositiveNegative.deps.json
+C:\Users\mascacibas\Documents\C# - Exercises\PairOddPositiveNegative\PairOddPositiveNegative\bin\Debug\net6.0\PairOddPositiveNegative.runtimeconfig.json
+C:\Users\mascacibas\Documents\C# - Exercises\PairOddPositiveNegative\PairOddPositiveNegative\bin\Debug\net6.0\PairOddPositiveNegative.dll
+C:\Users\mascacibas\Documents\C# - Exercises\PairOddPositiveNegative\PairOddPositiveNegative\bin\Debug\net6.0\PairOddPositiveNegative.pdb
+C:\Users\mascacibas\Documents\C# - Exercises\PairOddPositiveNegative\PairOddPositiveNegative\obj\Debug\net6.0\PairOddPositiveNegative.csproj.AssemblyReference.cache
+C:\Users\mascacibas\Documents\C# - Exercises\PairOddPositiveNegative\PairOddPositiveNegative\obj\Debug\net6.0\PairOddPositiveNegative.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mascacibas\Documents\C# - Exercises\PairOddPositiveNegative\PairOddPositiveNegative\obj\Debug\net6.0\PairOddPositiveNegative.AssemblyInfoInputs.cache
+C:\Users\mascacibas\Documents\C# - Exercises\PairOddPositiveNegative\PairOddPositiveNegative\obj\Debug\net6.0\PairOddPositiveNegative.AssemblyInfo.cs
+C:\Users\mascacibas\Documents\C# - Exercises\PairOddPositiveNegative\PairOddPositiveNegative\obj\Debug\net6.0\PairOddPositiveNegative.csproj.CoreCompileInputs.cache
+C:\Users\mascacibas\Documents\C# - Exercises\PairOddPositiveNegative\PairOddPositiveNegative\obj\Debug\net6.0\PairOddPositiveNegative.dll
+C:\Users\mascacibas\Documents\C# - Exercises\PairOddPositiveNegative\PairOddPositiveNegative\obj\Debug\net6.0\refint\PairOddPositiveNegative.dll
+C:\Users\mascacibas\Documents\C# - Exercises\PairOddPositiveNegative\PairOddPositiveNegative\obj\Debug\net6.0\PairOddPositiveNegative.pdb
+C:\Users\mascacibas\Documents\C# - Exercises\PairOddPositiveNegative\PairOddPositiveNegative\obj\Debug\net6.0\PairOddPositiveNegative.genruntimeconfig.cache
+C:\Users\mascacibas\Documents\C# - Exercises\PairOddPositiveNegative\PairOddPositiveNegative\obj\Debug\net6.0\ref\PairOddPositiveNegative.dll

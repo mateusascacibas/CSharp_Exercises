@@ -1,0 +1,15 @@
+C:\Users\mascacibas\Documents\C# - Exercises\Sort\Sort\bin\Debug\net6.0\Sort.exe
+C:\Users\mascacibas\Documents\C# - Exercises\Sort\Sort\bin\Debug\net6.0\Sort.deps.json
+C:\Users\mascacibas\Documents\C# - Exercises\Sort\Sort\bin\Debug\net6.0\Sort.runtimeconfig.json
+C:\Users\mascacibas\Documents\C# - Exercises\Sort\Sort\bin\Debug\net6.0\Sort.dll
+C:\Users\mascacibas\Documents\C# - Exercises\Sort\Sort\bin\Debug\net6.0\Sort.pdb
+C:\Users\mascacibas\Documents\C# - Exercises\Sort\Sort\obj\Debug\net6.0\Sort.csproj.AssemblyReference.cache
+C:\Users\mascacibas\Documents\C# - Exercises\Sort\Sort\obj\Debug\net6.0\Sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mascacibas\Documents\C# - Exercises\Sort\Sort\obj\Debug\net6.0\Sort.AssemblyInfoInputs.cache
+C:\Users\mascacibas\Documents\C# - Exercises\Sort\Sort\obj\Debug\net6.0\Sort.AssemblyInfo.cs
+C:\Users\mascacibas\Documents\C# - Exercises\Sort\Sort\obj\Debug\net6.0\Sort.csproj.CoreCompileInputs.cache
+C:\Users\mascacibas\Documents\C# - Exercises\Sort\Sort\obj\Debug\net6.0\Sort.dll
+C:\Users\mascacibas\Documents\C# - Exercises\Sort\Sort\obj\Debug\net6.0\refint\Sort.dll
+C:\Users\mascacibas\Documents\C# - Exercises\Sort\Sort\obj\Debug\net6.0\Sort.pdb
+C:\Users\mascacibas\Documents\C# - Exercises\Sort\Sort\obj\Debug\net6.0\Sort.genruntimeconfig.cache
+C:\Users\mascacibas\Documents\C# - Exercises\Sort\Sort\obj\Debug\net6.0\ref\Sort.dll

@@ -1,0 +1,15 @@
+C:\Users\mascacibas\Documents\C# - Exercises\Pair5Numbers\Pair5Numbers\bin\Debug\net6.0\Pair5Numbers.exe
+C:\Users\mascacibas\Documents\C# - Exercises\Pair5Numbers\Pair5Numbers\bin\Debug\net6.0\Pair5Numbers.deps.json
+C:\Users\mascacibas\Documents\C# - Exercises\Pair5Numbers\Pair5Numbers\bin\Debug\net6.0\Pair5Numbers.runtimeconfig.json
+C:\Users\mascacibas\Documents\C# - Exercises\Pair5Numbers\Pair5Numbers\bin\Debug\net6.0\Pair5Numbers.dll
+C:\Users\mascacibas\Documents\C# - Exercises\Pair5Numbers\Pair5Numbers\bin\Debug\net6.0\Pair5Numbers.pdb
+C:\Users\mascacibas\Documents\C# - Exercises\Pair5Numbers\Pair5Numbers\obj\Debug\net6.0\Pair5Numbers.csproj.AssemblyReference.cache
+C:\Users\mascacibas\Documents\C# - Exercises\Pair5Numbers\Pair5Numbers\obj\Debug\net6.0\Pair5Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mascacibas\Documents\C# - Exercises\Pair5Numbers\Pair5Numbers\obj\Debug\net6.0\Pair5Numbers.AssemblyInfoInputs.cache
+C:\Users\mascacibas\Documents\C# - Exercises\Pair5Numbers\Pair5Numbers\obj\Debug\net6.0\Pair5Numbers.AssemblyInfo.cs
+C:\Users\mascacibas\Documents\C# - Exercises\Pair5Numbers\Pair5Numbers\obj\Debug\net6.0\Pair5Numbers.csproj.CoreCompileInputs.cache
+C:\Users\mascacibas\Documents\C# - Exercises\Pair5Numbers\Pair5Numbers\obj\Debug\net6.0\Pair5Numbers.dll
+C:\Users\mascacibas\Documents\C# - Exercises\Pair5Numbers\Pair5Numbers\obj\Debug\net6.0\refint\Pair5Numbers.dll
+C:\Users\mascacibas\Documents\C# - Exercises\Pair5Numbers\Pair5Numbers\obj\Debug\net6.0\Pair5Numbers.pdb
+C:\Users\mascacibas\Documents\C# - Exercises\Pair5Numbers\Pair5Numbers\obj\Debug\net6.0\Pair5Numbers.genruntimeconfig.cache
+C:\Users\mascacibas\Documents\C# - Exercises\Pair5Numbers\Pair5Numbers\obj\Debug\net6.0\ref\Pair5Numbers.dll
