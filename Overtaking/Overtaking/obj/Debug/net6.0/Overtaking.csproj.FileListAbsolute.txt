@@ -1,0 +1,15 @@
+C:\Users\mascacibas\Documents\C# - Exercises\Overtaking\Overtaking\bin\Debug\net6.0\Overtaking.exe
+C:\Users\mascacibas\Documents\C# - Exercises\Overtaking\Overtaking\bin\Debug\net6.0\Overtaking.deps.json
+C:\Users\mascacibas\Documents\C# - Exercises\Overtaking\Overtaking\bin\Debug\net6.0\Overtaking.runtimeconfig.json
+C:\Users\mascacibas\Documents\C# - Exercises\Overtaking\Overtaking\bin\Debug\net6.0\Overtaking.dll
+C:\Users\mascacibas\Documents\C# - Exercises\Overtaking\Overtaking\bin\Debug\net6.0\Overtaking.pdb
+C:\Users\mascacibas\Documents\C# - Exercises\Overtaking\Overtaking\obj\Debug\net6.0\Overtaking.csproj.AssemblyReference.cache
+C:\Users\mascacibas\Documents\C# - Exercises\Overtaking\Overtaking\obj\Debug\net6.0\Overtaking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mascacibas\Documents\C# - Exercises\Overtaking\Overtaking\obj\Debug\net6.0\Overtaking.AssemblyInfoInputs.cache
+C:\Users\mascacibas\Documents\C# - Exercises\Overtaking\Overtaking\obj\Debug\net6.0\Overtaking.AssemblyInfo.cs
+C:\Users\mascacibas\Documents\C# - Exercises\Overtaking\Overtaking\obj\Debug\net6.0\Overtaking.csproj.CoreCompileInputs.cache
+C:\Users\mascacibas\Documents\C# - Exercises\Overtaking\Overtaking\obj\Debug\net6.0\Overtaking.dll
+C:\Users\mascacibas\Documents\C# - Exercises\Overtaking\Overtaking\obj\Debug\net6.0\refint\Overtaking.dll
+C:\Users\mascacibas\Documents\C# - Exercises\Overtaking\Overtaking\obj\Debug\net6.0\Overtaking.pdb
+C:\Users\mascacibas\Documents\C# - Exercises\Overtaking\Overtaking\obj\Debug\net6.0\Overtaking.genruntimeconfig.cache
+C:\Users\mascacibas\Documents\C# - Exercises\Overtaking\Overtaking\obj\Debug\net6.0\ref\Overtaking.dll

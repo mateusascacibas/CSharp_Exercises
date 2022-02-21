@@ -1,0 +1,15 @@
+C:\Users\mascacibas\Documents\C# - Exercises\SquareAndCube\SquareAndCube\bin\Debug\net6.0\SquareAndCube.exe
+C:\Users\mascacibas\Documents\C# - Exercises\SquareAndCube\SquareAndCube\bin\Debug\net6.0\SquareAndCube.deps.json
+C:\Users\mascacibas\Documents\C# - Exercises\SquareAndCube\SquareAndCube\bin\Debug\net6.0\SquareAndCube.runtimeconfig.json
+C:\Users\mascacibas\Documents\C# - Exercises\SquareAndCube\SquareAndCube\bin\Debug\net6.0\SquareAndCube.dll
+C:\Users\mascacibas\Documents\C# - Exercises\SquareAndCube\SquareAndCube\bin\Debug\net6.0\SquareAndCube.pdb
+C:\Users\mascacibas\Documents\C# - Exercises\SquareAndCube\SquareAndCube\obj\Debug\net6.0\SquareAndCube.csproj.AssemblyReference.cache
+C:\Users\mascacibas\Documents\C# - Exercises\SquareAndCube\SquareAndCube\obj\Debug\net6.0\SquareAndCube.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mascacibas\Documents\C# - Exercises\SquareAndCube\SquareAndCube\obj\Debug\net6.0\SquareAndCube.AssemblyInfoInputs.cache
+C:\Users\mascacibas\Documents\C# - Exercises\SquareAndCube\SquareAndCube\obj\Debug\net6.0\SquareAndCube.AssemblyInfo.cs
+C:\Users\mascacibas\Documents\C# - Exercises\SquareAndCube\SquareAndCube\obj\Debug\net6.0\SquareAndCube.csproj.CoreCompileInputs.cache
+C:\Users\mascacibas\Documents\C# - Exercises\SquareAndCube\SquareAndCube\obj\Debug\net6.0\SquareAndCube.dll
+C:\Users\mascacibas\Documents\C# - Exercises\SquareAndCube\SquareAndCube\obj\Debug\net6.0\refint\SquareAndCube.dll
+C:\Users\mascacibas\Documents\C# - Exercises\SquareAndCube\SquareAndCube\obj\Debug\net6.0\SquareAndCube.pdb
+C:\Users\mascacibas\Documents\C# - Exercises\SquareAndCube\SquareAndCube\obj\Debug\net6.0\SquareAndCube.genruntimeconfig.cache
+C:\Users\mascacibas\Documents\C# - Exercises\SquareAndCube\SquareAndCube\obj\Debug\net6.0\ref\SquareAndCube.dll

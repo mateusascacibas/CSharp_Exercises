@@ -1,0 +1,15 @@
+C:\Users\mascacibas\Documents\C# - Exercises\LogicSequency\LogicSequency\bin\Debug\net6.0\LogicSequency.exe
+C:\Users\mascacibas\Documents\C# - Exercises\LogicSequency\LogicSequency\bin\Debug\net6.0\LogicSequency.deps.json
+C:\Users\mascacibas\Documents\C# - Exercises\LogicSequency\LogicSequency\bin\Debug\net6.0\LogicSequency.runtimeconfig.json
+C:\Users\mascacibas\Documents\C# - Exercises\LogicSequency\LogicSequency\bin\Debug\net6.0\LogicSequency.dll
+C:\Users\mascacibas\Documents\C# - Exercises\LogicSequency\LogicSequency\bin\Debug\net6.0\LogicSequency.pdb
+C:\Users\mascacibas\Documents\C# - Exercises\LogicSequency\LogicSequency\obj\Debug\net6.0\LogicSequency.csproj.AssemblyReference.cache
+C:\Users\mascacibas\Documents\C# - Exercises\LogicSequency\LogicSequency\obj\Debug\net6.0\LogicSequency.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mascacibas\Documents\C# - Exercises\LogicSequency\LogicSequency\obj\Debug\net6.0\LogicSequency.AssemblyInfoInputs.cache
+C:\Users\mascacibas\Documents\C# - Exercises\LogicSequency\LogicSequency\obj\Debug\net6.0\LogicSequency.AssemblyInfo.cs
+C:\Users\mascacibas\Documents\C# - Exercises\LogicSequency\LogicSequency\obj\Debug\net6.0\LogicSequency.csproj.CoreCompileInputs.cache
+C:\Users\mascacibas\Documents\C# - Exercises\LogicSequency\LogicSequency\obj\Debug\net6.0\LogicSequency.dll
+C:\Users\mascacibas\Documents\C# - Exercises\LogicSequency\LogicSequency\obj\Debug\net6.0\refint\LogicSequency.dll
+C:\Users\mascacibas\Documents\C# - Exercises\LogicSequency\LogicSequency\obj\Debug\net6.0\LogicSequency.pdb
+C:\Users\mascacibas\Documents\C# - Exercises\LogicSequency\LogicSequency\obj\Debug\net6.0\LogicSequency.genruntimeconfig.cache
+C:\Users\mascacibas\Documents\C# - Exercises\LogicSequency\LogicSequency\obj\Debug\net6.0\ref\LogicSequency.dll

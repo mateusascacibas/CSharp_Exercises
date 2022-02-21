@@ -1,0 +1,15 @@
+C:\Users\mascacibas\Documents\C# - Exercises\SequencyLogic2\SequencyLogic2\bin\Debug\net6.0\SequencyLogic2.exe
+C:\Users\mascacibas\Documents\C# - Exercises\SequencyLogic2\SequencyLogic2\bin\Debug\net6.0\SequencyLogic2.deps.json
+C:\Users\mascacibas\Documents\C# - Exercises\SequencyLogic2\SequencyLogic2\bin\Debug\net6.0\SequencyLogic2.runtimeconfig.json
+C:\Users\mascacibas\Documents\C# - Exercises\SequencyLogic2\SequencyLogic2\bin\Debug\net6.0\SequencyLogic2.dll
+C:\Users\mascacibas\Documents\C# - Exercises\SequencyLogic2\SequencyLogic2\bin\Debug\net6.0\SequencyLogic2.pdb
+C:\Users\mascacibas\Documents\C# - Exercises\SequencyLogic2\SequencyLogic2\obj\Debug\net6.0\SequencyLogic2.csproj.AssemblyReference.cache
+C:\Users\mascacibas\Documents\C# - Exercises\SequencyLogic2\SequencyLogic2\obj\Debug\net6.0\SequencyLogic2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mascacibas\Documents\C# - Exercises\SequencyLogic2\SequencyLogic2\obj\Debug\net6.0\SequencyLogic2.AssemblyInfoInputs.cache
+C:\Users\mascacibas\Documents\C# - Exercises\SequencyLogic2\SequencyLogic2\obj\Debug\net6.0\SequencyLogic2.AssemblyInfo.cs
+C:\Users\mascacibas\Documents\C# - Exercises\SequencyLogic2\SequencyLogic2\obj\Debug\net6.0\SequencyLogic2.csproj.CoreCompileInputs.cache
+C:\Users\mascacibas\Documents\C# - Exercises\SequencyLogic2\SequencyLogic2\obj\Debug\net6.0\SequencyLogic2.dll
+C:\Users\mascacibas\Documents\C# - Exercises\SequencyLogic2\SequencyLogic2\obj\Debug\net6.0\refint\SequencyLogic2.dll
+C:\Users\mascacibas\Documents\C# - Exercises\SequencyLogic2\SequencyLogic2\obj\Debug\net6.0\SequencyLogic2.pdb
+C:\Users\mascacibas\Documents\C# - Exercises\SequencyLogic2\SequencyLogic2\obj\Debug\net6.0\SequencyLogic2.genruntimeconfig.cache
+C:\Users\mascacibas\Documents\C# - Exercises\SequencyLogic2\SequencyLogic2\obj\Debug\net6.0\ref\SequencyLogic2.dll

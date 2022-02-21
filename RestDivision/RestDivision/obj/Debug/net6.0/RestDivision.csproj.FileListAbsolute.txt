@@ -1,0 +1,15 @@
+C:\Users\mascacibas\Documents\C# - Exercises\RestDivision\RestDivision\bin\Debug\net6.0\RestDivision.exe
+C:\Users\mascacibas\Documents\C# - Exercises\RestDivision\RestDivision\bin\Debug\net6.0\RestDivision.deps.json
+C:\Users\mascacibas\Documents\C# - Exercises\RestDivision\RestDivision\bin\Debug\net6.0\RestDivision.runtimeconfig.json
+C:\Users\mascacibas\Documents\C# - Exercises\RestDivision\RestDivision\bin\Debug\net6.0\RestDivision.dll
+C:\Users\mascacibas\Documents\C# - Exercises\RestDivision\RestDivision\bin\Debug\net6.0\RestDivision.pdb
+C:\Users\mascacibas\Documents\C# - Exercises\RestDivision\RestDivision\obj\Debug\net6.0\RestDivision.csproj.AssemblyReference.cache
+C:\Users\mascacibas\Documents\C# - Exercises\RestDivision\RestDivision\obj\Debug\net6.0\RestDivision.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mascacibas\Documents\C# - Exercises\RestDivision\RestDivision\obj\Debug\net6.0\RestDivision.AssemblyInfoInputs.cache
+C:\Users\mascacibas\Documents\C# - Exercises\RestDivision\RestDivision\obj\Debug\net6.0\RestDivision.AssemblyInfo.cs
+C:\Users\mascacibas\Documents\C# - Exercises\RestDivision\RestDivision\obj\Debug\net6.0\RestDivision.csproj.CoreCompileInputs.cache
+C:\Users\mascacibas\Documents\C# - Exercises\RestDivision\RestDivision\obj\Debug\net6.0\RestDivision.dll
+C:\Users\mascacibas\Documents\C# - Exercises\RestDivision\RestDivision\obj\Debug\net6.0\refint\RestDivision.dll
+C:\Users\mascacibas\Documents\C# - Exercises\RestDivision\RestDivision\obj\Debug\net6.0\RestDivision.pdb
+C:\Users\mascacibas\Documents\C# - Exercises\RestDivision\RestDivision\obj\Debug\net6.0\RestDivision.genruntimeconfig.cache
+C:\Users\mascacibas\Documents\C# - Exercises\RestDivision\RestDivision\obj\Debug\net6.0\ref\RestDivision.dll

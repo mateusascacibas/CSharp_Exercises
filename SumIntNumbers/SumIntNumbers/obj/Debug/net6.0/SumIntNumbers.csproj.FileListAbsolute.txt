@@ -1,0 +1,15 @@
+C:\Users\mascacibas\Documents\C# - Exercises\SumIntNumbers\SumIntNumbers\bin\Debug\net6.0\SumIntNumbers.exe
+C:\Users\mascacibas\Documents\C# - Exercises\SumIntNumbers\SumIntNumbers\bin\Debug\net6.0\SumIntNumbers.deps.json
+C:\Users\mascacibas\Documents\C# - Exercises\SumIntNumbers\SumIntNumbers\bin\Debug\net6.0\SumIntNumbers.runtimeconfig.json
+C:\Users\mascacibas\Documents\C# - Exercises\SumIntNumbers\SumIntNumbers\bin\Debug\net6.0\SumIntNumbers.dll
+C:\Users\mascacibas\Documents\C# - Exercises\SumIntNumbers\SumIntNumbers\bin\Debug\net6.0\SumIntNumbers.pdb
+C:\Users\mascacibas\Documents\C# - Exercises\SumIntNumbers\SumIntNumbers\obj\Debug\net6.0\SumIntNumbers.csproj.AssemblyReference.cache
+C:\Users\mascacibas\Documents\C# - Exercises\SumIntNumbers\SumIntNumbers\obj\Debug\net6.0\SumIntNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mascacibas\Documents\C# - Exercises\SumIntNumbers\SumIntNumbers\obj\Debug\net6.0\SumIntNumbers.AssemblyInfoInputs.cache
+C:\Users\mascacibas\Documents\C# - Exercises\SumIntNumbers\SumIntNumbers\obj\Debug\net6.0\SumIntNumbers.AssemblyInfo.cs
+C:\Users\mascacibas\Documents\C# - Exercises\SumIntNumbers\SumIntNumbers\obj\Debug\net6.0\SumIntNumbers.csproj.CoreCompileInputs.cache
+C:\Users\mascacibas\Documents\C# - Exercises\SumIntNumbers\SumIntNumbers\obj\Debug\net6.0\SumIntNumbers.dll
+C:\Users\mascacibas\Documents\C# - Exercises\SumIntNumbers\SumIntNumbers\obj\Debug\net6.0\refint\SumIntNumbers.dll
+C:\Users\mascacibas\Documents\C# - Exercises\SumIntNumbers\SumIntNumbers\obj\Debug\net6.0\SumIntNumbers.pdb
+C:\Users\mascacibas\Documents\C# - Exercises\SumIntNumbers\SumIntNumbers\obj\Debug\net6.0\SumIntNumbers.genruntimeconfig.cache
+C:\Users\mascacibas\Documents\C# - Exercises\SumIntNumbers\SumIntNumbers\obj\Debug\net6.0\ref\SumIntNumbers.dll

@@ -1,0 +1,15 @@
+C:\Users\mascacibas\Documents\C# - Exercises\SumOddConsecutiveNumbers\SumOddConsecutiveNumbers\bin\Debug\net6.0\SumOddConsecutiveNumbers.exe
+C:\Users\mascacibas\Documents\C# - Exercises\SumOddConsecutiveNumbers\SumOddConsecutiveNumbers\bin\Debug\net6.0\SumOddConsecutiveNumbers.deps.json
+C:\Users\mascacibas\Documents\C# - Exercises\SumOddConsecutiveNumbers\SumOddConsecutiveNumbers\bin\Debug\net6.0\SumOddConsecutiveNumbers.runtimeconfig.json
+C:\Users\mascacibas\Documents\C# - Exercises\SumOddConsecutiveNumbers\SumOddConsecutiveNumbers\bin\Debug\net6.0\SumOddConsecutiveNumbers.dll
+C:\Users\mascacibas\Documents\C# - Exercises\SumOddConsecutiveNumbers\SumOddConsecutiveNumbers\bin\Debug\net6.0\SumOddConsecutiveNumbers.pdb
+C:\Users\mascacibas\Documents\C# - Exercises\SumOddConsecutiveNumbers\SumOddConsecutiveNumbers\obj\Debug\net6.0\SumOddConsecutiveNumbers.csproj.AssemblyReference.cache
+C:\Users\mascacibas\Documents\C# - Exercises\SumOddConsecutiveNumbers\SumOddConsecutiveNumbers\obj\Debug\net6.0\SumOddConsecutiveNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mascacibas\Documents\C# - Exercises\SumOddConsecutiveNumbers\SumOddConsecutiveNumbers\obj\Debug\net6.0\SumOddConsecutiveNumbers.AssemblyInfoInputs.cache
+C:\Users\mascacibas\Documents\C# - Exercises\SumOddConsecutiveNumbers\SumOddConsecutiveNumbers\obj\Debug\net6.0\SumOddConsecutiveNumbers.AssemblyInfo.cs
+C:\Users\mascacibas\Documents\C# - Exercises\SumOddConsecutiveNumbers\SumOddConsecutiveNumbers\obj\Debug\net6.0\SumOddConsecutiveNumbers.csproj.CoreCompileInputs.cache
+C:\Users\mascacibas\Documents\C# - Exercises\SumOddConsecutiveNumbers\SumOddConsecutiveNumbers\obj\Debug\net6.0\SumOddConsecutiveNumbers.dll
+C:\Users\mascacibas\Documents\C# - Exercises\SumOddConsecutiveNumbers\SumOddConsecutiveNumbers\obj\Debug\net6.0\refint\SumOddConsecutiveNumbers.dll
+C:\Users\mascacibas\Documents\C# - Exercises\SumOddConsecutiveNumbers\SumOddConsecutiveNumbers\obj\Debug\net6.0\SumOddConsecutiveNumbers.pdb
+C:\Users\mascacibas\Documents\C# - Exercises\SumOddConsecutiveNumbers\SumOddConsecutiveNumbers\obj\Debug\net6.0\SumOddConsecutiveNumbers.genruntimeconfig.cache
+C:\Users\mascacibas\Documents\C# - Exercises\SumOddConsecutiveNumbers\SumOddConsecutiveNumbers\obj\Debug\net6.0\ref\SumOddConsecutiveNumbers.dll

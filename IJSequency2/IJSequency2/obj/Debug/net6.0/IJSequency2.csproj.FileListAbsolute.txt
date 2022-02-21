@@ -1,0 +1,15 @@
+C:\Users\mascacibas\Documents\C# - Exercises\IJSequency2\IJSequency2\bin\Debug\net6.0\IJSequency2.exe
+C:\Users\mascacibas\Documents\C# - Exercises\IJSequency2\IJSequency2\bin\Debug\net6.0\IJSequency2.deps.json
+C:\Users\mascacibas\Documents\C# - Exercises\IJSequency2\IJSequency2\bin\Debug\net6.0\IJSequency2.runtimeconfig.json
+C:\Users\mascacibas\Documents\C# - Exercises\IJSequency2\IJSequency2\bin\Debug\net6.0\IJSequency2.dll
+C:\Users\mascacibas\Documents\C# - Exercises\IJSequency2\IJSequency2\bin\Debug\net6.0\IJSequency2.pdb
+C:\Users\mascacibas\Documents\C# - Exercises\IJSequency2\IJSequency2\obj\Debug\net6.0\IJSequency2.csproj.AssemblyReference.cache
+C:\Users\mascacibas\Documents\C# - Exercises\IJSequency2\IJSequency2\obj\Debug\net6.0\IJSequency2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mascacibas\Documents\C# - Exercises\IJSequency2\IJSequency2\obj\Debug\net6.0\IJSequency2.AssemblyInfoInputs.cache
+C:\Users\mascacibas\Documents\C# - Exercises\IJSequency2\IJSequency2\obj\Debug\net6.0\IJSequency2.AssemblyInfo.cs
+C:\Users\mascacibas\Documents\C# - Exercises\IJSequency2\IJSequency2\obj\Debug\net6.0\IJSequency2.csproj.CoreCompileInputs.cache
+C:\Users\mascacibas\Documents\C# - Exercises\IJSequency2\IJSequency2\obj\Debug\net6.0\IJSequency2.dll
+C:\Users\mascacibas\Documents\C# - Exercises\IJSequency2\IJSequency2\obj\Debug\net6.0\refint\IJSequency2.dll
+C:\Users\mascacibas\Documents\C# - Exercises\IJSequency2\IJSequency2\obj\Debug\net6.0\IJSequency2.pdb
+C:\Users\mascacibas\Documents\C# - Exercises\IJSequency2\IJSequency2\obj\Debug\net6.0\IJSequency2.genruntimeconfig.cache
+C:\Users\mascacibas\Documents\C# - Exercises\IJSequency2\IJSequency2\obj\Debug\net6.0\ref\IJSequency2.dll

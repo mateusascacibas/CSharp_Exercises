@@ -1,0 +1,15 @@
+C:\Users\mascacibas\Documents\C# - Exercises\SequencyNumberAndSum\SequencyNumberAndSum\bin\Debug\net6.0\SequencyNumberAndSum.exe
+C:\Users\mascacibas\Documents\C# - Exercises\SequencyNumberAndSum\SequencyNumberAndSum\bin\Debug\net6.0\SequencyNumberAndSum.deps.json
+C:\Users\mascacibas\Documents\C# - Exercises\SequencyNumberAndSum\SequencyNumberAndSum\bin\Debug\net6.0\SequencyNumberAndSum.runtimeconfig.json
+C:\Users\mascacibas\Documents\C# - Exercises\SequencyNumberAndSum\SequencyNumberAndSum\bin\Debug\net6.0\SequencyNumberAndSum.dll
+C:\Users\mascacibas\Documents\C# - Exercises\SequencyNumberAndSum\SequencyNumberAndSum\bin\Debug\net6.0\SequencyNumberAndSum.pdb
+C:\Users\mascacibas\Documents\C# - Exercises\SequencyNumberAndSum\SequencyNumberAndSum\obj\Debug\net6.0\SequencyNumberAndSum.csproj.AssemblyReference.cache
+C:\Users\mascacibas\Documents\C# - Exercises\SequencyNumberAndSum\SequencyNumberAndSum\obj\Debug\net6.0\SequencyNumberAndSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mascacibas\Documents\C# - Exercises\SequencyNumberAndSum\SequencyNumberAndSum\obj\Debug\net6.0\SequencyNumberAndSum.AssemblyInfoInputs.cache
+C:\Users\mascacibas\Documents\C# - Exercises\SequencyNumberAndSum\SequencyNumberAndSum\obj\Debug\net6.0\SequencyNumberAndSum.AssemblyInfo.cs
+C:\Users\mascacibas\Documents\C# - Exercises\SequencyNumberAndSum\SequencyNumberAndSum\obj\Debug\net6.0\SequencyNumberAndSum.csproj.CoreCompileInputs.cache
+C:\Users\mascacibas\Documents\C# - Exercises\SequencyNumberAndSum\SequencyNumberAndSum\obj\Debug\net6.0\SequencyNumberAndSum.dll
+C:\Users\mascacibas\Documents\C# - Exercises\SequencyNumberAndSum\SequencyNumberAndSum\obj\Debug\net6.0\refint\SequencyNumberAndSum.dll
+C:\Users\mascacibas\Documents\C# - Exercises\SequencyNumberAndSum\SequencyNumberAndSum\obj\Debug\net6.0\SequencyNumberAndSum.pdb
+C:\Users\mascacibas\Documents\C# - Exercises\SequencyNumberAndSum\SequencyNumberAndSum\obj\Debug\net6.0\SequencyNumberAndSum.genruntimeconfig.cache
+C:\Users\mascacibas\Documents\C# - Exercises\SequencyNumberAndSum\SequencyNumberAndSum\obj\Debug\net6.0\ref\SequencyNumberAndSum.dll

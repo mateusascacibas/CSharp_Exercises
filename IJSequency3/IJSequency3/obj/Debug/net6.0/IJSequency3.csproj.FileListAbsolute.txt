@@ -1,0 +1,15 @@
+C:\Users\mascacibas\Documents\C# - Exercises\IJSequency3\IJSequency3\bin\Debug\net6.0\IJSequency3.exe
+C:\Users\mascacibas\Documents\C# - Exercises\IJSequency3\IJSequency3\bin\Debug\net6.0\IJSequency3.deps.json
+C:\Users\mascacibas\Documents\C# - Exercises\IJSequency3\IJSequency3\bin\Debug\net6.0\IJSequency3.runtimeconfig.json
+C:\Users\mascacibas\Documents\C# - Exercises\IJSequency3\IJSequency3\bin\Debug\net6.0\IJSequency3.dll
+C:\Users\mascacibas\Documents\C# - Exercises\IJSequency3\IJSequency3\bin\Debug\net6.0\IJSequency3.pdb
+C:\Users\mascacibas\Documents\C# - Exercises\IJSequency3\IJSequency3\obj\Debug\net6.0\IJSequency3.csproj.AssemblyReference.cache
+C:\Users\mascacibas\Documents\C# - Exercises\IJSequency3\IJSequency3\obj\Debug\net6.0\IJSequency3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mascacibas\Documents\C# - Exercises\IJSequency3\IJSequency3\obj\Debug\net6.0\IJSequency3.AssemblyInfoInputs.cache
+C:\Users\mascacibas\Documents\C# - Exercises\IJSequency3\IJSequency3\obj\Debug\net6.0\IJSequency3.AssemblyInfo.cs
+C:\Users\mascacibas\Documents\C# - Exercises\IJSequency3\IJSequency3\obj\Debug\net6.0\IJSequency3.csproj.CoreCompileInputs.cache
+C:\Users\mascacibas\Documents\C# - Exercises\IJSequency3\IJSequency3\obj\Debug\net6.0\IJSequency3.dll
+C:\Users\mascacibas\Documents\C# - Exercises\IJSequency3\IJSequency3\obj\Debug\net6.0\refint\IJSequency3.dll
+C:\Users\mascacibas\Documents\C# - Exercises\IJSequency3\IJSequency3\obj\Debug\net6.0\IJSequency3.pdb
+C:\Users\mascacibas\Documents\C# - Exercises\IJSequency3\IJSequency3\obj\Debug\net6.0\IJSequency3.genruntimeconfig.cache
+C:\Users\mascacibas\Documents\C# - Exercises\IJSequency3\IJSequency3\obj\Debug\net6.0\ref\IJSequency3.dll
