@@ -1,0 +1,15 @@
+C:\Users\mascacibas\Documents\C# - Exercises\Divisors1\Divisors1\bin\Debug\net6.0\Divisors1.exe
+C:\Users\mascacibas\Documents\C# - Exercises\Divisors1\Divisors1\bin\Debug\net6.0\Divisors1.deps.json
+C:\Users\mascacibas\Documents\C# - Exercises\Divisors1\Divisors1\bin\Debug\net6.0\Divisors1.runtimeconfig.json
+C:\Users\mascacibas\Documents\C# - Exercises\Divisors1\Divisors1\bin\Debug\net6.0\Divisors1.dll
+C:\Users\mascacibas\Documents\C# - Exercises\Divisors1\Divisors1\bin\Debug\net6.0\Divisors1.pdb
+C:\Users\mascacibas\Documents\C# - Exercises\Divisors1\Divisors1\obj\Debug\net6.0\Divisors1.csproj.AssemblyReference.cache
+C:\Users\mascacibas\Documents\C# - Exercises\Divisors1\Divisors1\obj\Debug\net6.0\Divisors1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mascacibas\Documents\C# - Exercises\Divisors1\Divisors1\obj\Debug\net6.0\Divisors1.AssemblyInfoInputs.cache
+C:\Users\mascacibas\Documents\C# - Exercises\Divisors1\Divisors1\obj\Debug\net6.0\Divisors1.AssemblyInfo.cs
+C:\Users\mascacibas\Documents\C# - Exercises\Divisors1\Divisors1\obj\Debug\net6.0\Divisors1.csproj.CoreCompileInputs.cache
+C:\Users\mascacibas\Documents\C# - Exercises\Divisors1\Divisors1\obj\Debug\net6.0\Divisors1.dll
+C:\Users\mascacibas\Documents\C# - Exercises\Divisors1\Divisors1\obj\Debug\net6.0\refint\Divisors1.dll
+C:\Users\mascacibas\Documents\C# - Exercises\Divisors1\Divisors1\obj\Debug\net6.0\Divisors1.pdb
+C:\Users\mascacibas\Documents\C# - Exercises\Divisors1\Divisors1\obj\Debug\net6.0\Divisors1.genruntimeconfig.cache
+C:\Users\mascacibas\Documents\C# - Exercises\Divisors1\Divisors1\obj\Debug\net6.0\ref\Divisors1.dll

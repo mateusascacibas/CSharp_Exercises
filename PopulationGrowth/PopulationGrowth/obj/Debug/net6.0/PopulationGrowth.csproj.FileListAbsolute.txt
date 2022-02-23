@@ -1,0 +1,15 @@
+C:\Users\mascacibas\Documents\C# - Exercises\PopulationGrowth\PopulationGrowth\bin\Debug\net6.0\PopulationGrowth.exe
+C:\Users\mascacibas\Documents\C# - Exercises\PopulationGrowth\PopulationGrowth\bin\Debug\net6.0\PopulationGrowth.deps.json
+C:\Users\mascacibas\Documents\C# - Exercises\PopulationGrowth\PopulationGrowth\bin\Debug\net6.0\PopulationGrowth.runtimeconfig.json
+C:\Users\mascacibas\Documents\C# - Exercises\PopulationGrowth\PopulationGrowth\bin\Debug\net6.0\PopulationGrowth.dll
+C:\Users\mascacibas\Documents\C# - Exercises\PopulationGrowth\PopulationGrowth\bin\Debug\net6.0\PopulationGrowth.pdb
+C:\Users\mascacibas\Documents\C# - Exercises\PopulationGrowth\PopulationGrowth\obj\Debug\net6.0\PopulationGrowth.csproj.AssemblyReference.cache
+C:\Users\mascacibas\Documents\C# - Exercises\PopulationGrowth\PopulationGrowth\obj\Debug\net6.0\PopulationGrowth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mascacibas\Documents\C# - Exercises\PopulationGrowth\PopulationGrowth\obj\Debug\net6.0\PopulationGrowth.AssemblyInfoInputs.cache
+C:\Users\mascacibas\Documents\C# - Exercises\PopulationGrowth\PopulationGrowth\obj\Debug\net6.0\PopulationGrowth.AssemblyInfo.cs
+C:\Users\mascacibas\Documents\C# - Exercises\PopulationGrowth\PopulationGrowth\obj\Debug\net6.0\PopulationGrowth.csproj.CoreCompileInputs.cache
+C:\Users\mascacibas\Documents\C# - Exercises\PopulationGrowth\PopulationGrowth\obj\Debug\net6.0\PopulationGrowth.dll
+C:\Users\mascacibas\Documents\C# - Exercises\PopulationGrowth\PopulationGrowth\obj\Debug\net6.0\refint\PopulationGrowth.dll
+C:\Users\mascacibas\Documents\C# - Exercises\PopulationGrowth\PopulationGrowth\obj\Debug\net6.0\PopulationGrowth.pdb
+C:\Users\mascacibas\Documents\C# - Exercises\PopulationGrowth\PopulationGrowth\obj\Debug\net6.0\PopulationGrowth.genruntimeconfig.cache
+C:\Users\mascacibas\Documents\C# - Exercises\PopulationGrowth\PopulationGrowth\obj\Debug\net6.0\ref\PopulationGrowth.dll

@@ -1,0 +1,15 @@
+C:\Users\mascacibas\Documents\C# - Exercises\SumOddConsecutiveIII\SumOddConsecutiveIII\bin\Debug\net6.0\SumOddConsecutiveIII.exe
+C:\Users\mascacibas\Documents\C# - Exercises\SumOddConsecutiveIII\SumOddConsecutiveIII\bin\Debug\net6.0\SumOddConsecutiveIII.deps.json
+C:\Users\mascacibas\Documents\C# - Exercises\SumOddConsecutiveIII\SumOddConsecutiveIII\bin\Debug\net6.0\SumOddConsecutiveIII.runtimeconfig.json
+C:\Users\mascacibas\Documents\C# - Exercises\SumOddConsecutiveIII\SumOddConsecutiveIII\bin\Debug\net6.0\SumOddConsecutiveIII.dll
+C:\Users\mascacibas\Documents\C# - Exercises\SumOddConsecutiveIII\SumOddConsecutiveIII\bin\Debug\net6.0\SumOddConsecutiveIII.pdb
+C:\Users\mascacibas\Documents\C# - Exercises\SumOddConsecutiveIII\SumOddConsecutiveIII\obj\Debug\net6.0\SumOddConsecutiveIII.csproj.AssemblyReference.cache
+C:\Users\mascacibas\Documents\C# - Exercises\SumOddConsecutiveIII\SumOddConsecutiveIII\obj\Debug\net6.0\SumOddConsecutiveIII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mascacibas\Documents\C# - Exercises\SumOddConsecutiveIII\SumOddConsecutiveIII\obj\Debug\net6.0\SumOddConsecutiveIII.AssemblyInfoInputs.cache
+C:\Users\mascacibas\Documents\C# - Exercises\SumOddConsecutiveIII\SumOddConsecutiveIII\obj\Debug\net6.0\SumOddConsecutiveIII.AssemblyInfo.cs
+C:\Users\mascacibas\Documents\C# - Exercises\SumOddConsecutiveIII\SumOddConsecutiveIII\obj\Debug\net6.0\SumOddConsecutiveIII.csproj.CoreCompileInputs.cache
+C:\Users\mascacibas\Documents\C# - Exercises\SumOddConsecutiveIII\SumOddConsecutiveIII\obj\Debug\net6.0\SumOddConsecutiveIII.dll
+C:\Users\mascacibas\Documents\C# - Exercises\SumOddConsecutiveIII\SumOddConsecutiveIII\obj\Debug\net6.0\refint\SumOddConsecutiveIII.dll
+C:\Users\mascacibas\Documents\C# - Exercises\SumOddConsecutiveIII\SumOddConsecutiveIII\obj\Debug\net6.0\SumOddConsecutiveIII.pdb
+C:\Users\mascacibas\Documents\C# - Exercises\SumOddConsecutiveIII\SumOddConsecutiveIII\obj\Debug\net6.0\SumOddConsecutiveIII.genruntimeconfig.cache
+C:\Users\mascacibas\Documents\C# - Exercises\SumOddConsecutiveIII\SumOddConsecutiveIII\obj\Debug\net6.0\ref\SumOddConsecutiveIII.dll
